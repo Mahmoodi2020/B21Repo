@@ -3,3 +3,4 @@ again added
 cloned things
 push changes
 making changes
+stage all
